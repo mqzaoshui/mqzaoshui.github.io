@@ -59,11 +59,13 @@ It's worth noting that the above description provides a simplified overview of s
 
 ### 3. Encoder-Decoder Architecture
 Transformer follows an encoder-decoder architecture. The encoder processes the input sequence, encoding it into a set of continuous representations. The decoder takes these representations and generates an output sequence, one step at a time. This architecture is commonly used in sequence-to-sequence tasks such as machine translation and text summarization.
+
 <div align="center">
     <a href="./">
         <img src="images/Screen Shot 2023-03-23 at 04.27.53.png" width="40%"/>
     </a>
 </div>
+
 ### 4. Positional Encoding
 Since the Transformer model does not rely on recurrent or convolutional layers, it lacks the inherent notion of word order. To address this, positional encoding is introduced. Positional encoding provides the model with information about the relative positions of the words in the input sequence, enabling it to understand sequential relationships.
 
