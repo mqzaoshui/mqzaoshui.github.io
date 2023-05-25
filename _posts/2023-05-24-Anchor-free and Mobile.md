@@ -1,4 +1,4 @@
-# Mobile && Anchor-free by M.Q
+# Mobile and Anchor-free by M.Q
 
 ## Introduction
 This project is based on the Yolov6 and Mobilevit architectures.
