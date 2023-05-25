@@ -106,15 +106,19 @@ python -m torch.distributed.launch --nproc_per_node 8 tools/train.py \
 ```
 <details>
 <summary>Resume Training</summary>
+	
 If the training process is unexpectedly interrupted, you can resume training using the following steps:
 
+	
 ```shell
 # Multi-GPU training
 python -m torch.distributed.launch --nproc_per_node 8 tools/train.py --resume
 ```
 
+	
 You can also specify a specific checkpoint file to resume training:
 
+	
 ```shell
 # Replace /path/to/your/checkpoint/path with the desired checkpoint file path.
 --resume /path/to/your/checkpoint/path
