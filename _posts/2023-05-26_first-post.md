@@ -158,7 +158,7 @@ Navigate to deploy/Tensorrt. For detailed instructions, refer to the README.md f
 #### mAP Comparison
 <div align="center">
     <a href="./">
-        <img src="assets/Mobile_mAp.png" width="40%"/>
+        <img src="../assets/Mobile_mAp.png" width="40%"/>
     </a>
 </div>
 
@@ -172,15 +172,15 @@ Navigate to deploy/Tensorrt. For detailed instructions, refer to the README.md f
 #### Inference Results (Partial)
 <div align="center">
     <a href="./">
-        <img src="assets/v6s-out-test003.jpg" width="30%"/>
-	<img src="assets/netv2-out-test003.jpg" width="30%"/>
-        <img src="assets/xs-out-test003.jpg" width="30%"/>
+        <img src="../assets/v6s-out-test003.jpg" width="30%"/>
+	<img src="../assets/netv2-out-test003.jpg" width="30%"/>
+        <img src="../assets/xs-out-test003.jpg" width="30%"/>
     </a>
 </div>
 <div align="center">
     <a href="./">
-        <img src="assets/xxs-out-test003.jpg" width="30%"/>
-        <img src="assets/v2-xs-out-test003.jpg" width="30%"/>
-        <img src="assets/v2-s-out-test003.jpg" width="30%"/>
+        <img src="../assets/xxs-out-test003.jpg" width="30%"/>
+        <img src="../assets/v2-xs-out-test003.jpg" width="30%"/>
+        <img src="../assets/v2-s-out-test003.jpg" width="30%"/>
     </a>
 </div>
