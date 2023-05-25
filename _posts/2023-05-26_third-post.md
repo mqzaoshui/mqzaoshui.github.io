@@ -62,7 +62,7 @@ Transformer follows an encoder-decoder architecture. The encoder processes the i
 
 <div align="center">
     <a href="./">
-        <img src="images/Screen Shot 2023-03-23 at 04.27.53.png" width="40%"/>
+        <img src="../images/Screen Shot 2023-03-23 at 04.27.53.png" width="40%"/>
     </a>
 </div>
 
