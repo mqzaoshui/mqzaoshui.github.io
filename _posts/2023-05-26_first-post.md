@@ -165,7 +165,7 @@ Navigate to deploy/Tensorrt. For detailed instructions, refer to the README.md f
 #### TRT Quantized Inference Comparison
 <div align="center">
     <a href="./">
-        <img src="assets/Mobile_TRT.png" width="40%"/>
+        <img src="../assets/Mobile_TRT.png" width="40%"/>
     </a>
 </div>
 
