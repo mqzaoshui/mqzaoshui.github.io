@@ -28,7 +28,7 @@ First, you need to install Docker on your system. Docker provides installation p
 ### 2. Build an Image
 To create a Docker image, you need to write a Dockerfile that defines the image's configuration. Start by creating a new directory and place the Dockerfile inside it. Then, use a text editor to define the instructions required to build the image, such as selecting a base image, installing dependencies, and copying the application code. Save the Dockerfile and run the following command in the directory containing the Dockerfile:
 ```shell
-docker build -t image-name .
+docker build -t image-name
 ```
 This command builds the image based on the Dockerfile and tags it with the specified name.
 
